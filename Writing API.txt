@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=98JY6MvumVs
+
+pip install virtualenv
+pip install flask
+pip install flask-restful
+
+c:/folder> virtualenv flask
+
+c:\>folder/flask/scripts>pip install flask
+c:\>folder/flask/scripts> activate
+
+c:\>folder/> python app.py
